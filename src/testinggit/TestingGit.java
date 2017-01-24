@@ -14,6 +14,7 @@ public class TestingGit {
 
         Movie carrie = new Movie("Carrie", "Stephen King", 180);
         
+        Movie theShining = new Movie("The Shining", "Stephen King", 330);
     }
     
 }
